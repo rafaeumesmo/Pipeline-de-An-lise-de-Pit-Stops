@@ -1,0 +1,6 @@
+pandas
+kafka-python
+redis
+pika
+minio
+streamlit
