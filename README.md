@@ -21,7 +21,6 @@ O pipeline é composto pelos seguintes serviços, todos orquestrados com Docker 
 -   **Redis**: Um banco de dados em memória, usado para cache e acesso rápido aos dados mais recentes.
 -   **RabbitMQ**: Um *message broker* tradicional, usado para gerenciar a fila de alertas críticos.
 
-!http://googleusercontent.com/image_collection/image_retrieval/6443568443646785666
 
 ## Como Executar o Pipeline
 
