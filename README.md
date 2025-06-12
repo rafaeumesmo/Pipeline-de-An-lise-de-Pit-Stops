@@ -43,7 +43,7 @@ O pipeline é composto pelos seguintes serviços, todos orquestrados com Docker 
     ├── consumer.py
     ├── dashboard.py
     ├── requirements.txt
-    └── pit_stops.csv   <-- Coloque o dataset aqui!
+    └── pit_stops.csv   
     ```
 
 2.  **Construa e Inicie os Contêineres:**
